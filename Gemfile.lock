@@ -110,7 +110,7 @@ GEM
     thread_safe (0.3.5)
     timecop (0.8.1)
     tins (1.13.2)
-    yard (0.9.8)
+    yard (0.9.20)
 
 PLATFORMS
   ruby
